@@ -788,7 +788,7 @@
         <div class="container header-container">
             <a href="#" class="logo">abbas<span>Shop</span></a>
             
-            <nav id="mainNav">
+            <nav id="shopNav">
                 <ul>
                     <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
                     <li class="dropdown">
@@ -1129,10 +1129,10 @@
     <script>
         // Mobile Menu Toggle
         const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-        const mainNav = document.getElementById('mainNav');
+        const shopNav = document.getElementById('shopNav');
         
         mobileMenuBtn.addEventListener('click', () => {
-            mainNav.classList.toggle('active');
+            shopNav.classList.toggle('active');
         });
         
         // Dropdown Toggle for Mobile
