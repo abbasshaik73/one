@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>MY new Collection in 2026</h1>
+            <h1>Winter new Collection in 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -1022,7 +1022,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★☆</div>
-                <p>"Great selection of products at competitive prices. Customer service was helpful when I had a question about my order."</p>
+                <p>"Great selection of products at competitive prices. Customer service was helpful when I had a question about Winter order."</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Michael T." class="user-avatar">
                     <div>
@@ -1044,7 +1044,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"Fast shipping and excellent packaging. The product exceeded my expectations. Highly recommend this store!"</p>
+                <p>"Fast shipping and excellent packaging. The product exceeded Winter expectations. Highly recommend this store!"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="David K." class="user-avatar">
                     <div>
